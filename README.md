@@ -1,11 +1,11 @@
 
 # Tech
-*html 
+html 
 *css
-*java script
-*develped by mohamed abdelaziz
+java script
+develped by mohamed abdelaziz
 
 # FUNCTIONS
-*The Navigation bar
-*dynamic page
-*scrolling changing
+The Navigation bar
+dynamic page
+scrolling changing
